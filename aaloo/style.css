@@ -1,0 +1,30 @@
+.container{
+     height:100vh;
+     width:100%;
+     background-color: aliceblue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+}
+.time{
+     width: 40rem;
+     height: 30rem;
+     border-radius: 0.2rem;
+     background-color: skyblue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+     font-size: 4rem;
+     font-family: sans-serif;
+}
+#btn1{
+     position: relative;
+     top:31.5%;
+     padding:1rem;
+     font-size:8px;
+     font-family: sans-serif;
+     background-color: bisque;
+     border-radius: 00.2rem;
+}
