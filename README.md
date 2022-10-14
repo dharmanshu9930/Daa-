@@ -1,3 +1,5 @@
+# hacktoberfest-2022
+## you can get here c and cpp program's
 //merge sort
 #include <iostream>
 
